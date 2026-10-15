@@ -1,0 +1,31 @@
+body {
+    background-color:rgb(59, 70, 91);
+}
+
+h1 {
+    text-align: center;
+    color:aliceblue;
+    background-color:rgb(18, 18, 22);
+    opacity: 0.5;
+
+}
+
+div {
+    padding-bottom: 50px;
+}
+
+button {
+    text-align: center;
+    color:rgb(7, 7, 44);
+    background-color: rgb(110, 110, 146);
+
+}
+
+button:hover {
+    background-color: rgb(3, 3, 16);
+    color:rgb(42, 38, 71);
+}
+
+a {
+    color: rgb(7, 7, 44);
+}
